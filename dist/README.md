@@ -1,0 +1,1 @@
+DeadlineGuard static application assets.
